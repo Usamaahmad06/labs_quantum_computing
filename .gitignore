@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated archives
+*.zip
+
+# Professor lecture and exam PDFs (keep only the two project reports)
+/*.pdf

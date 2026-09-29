@@ -1,0 +1,6 @@
+qiskit>=2.0
+qiskit-aer
+matplotlib
+pylatexenc
+notebook
+numpy
